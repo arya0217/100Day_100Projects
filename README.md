@@ -12,6 +12,8 @@ I’ll log my daily progress here:
 |-----|----------|---------|
 | 01  | Mini Game | ✅ Completed |
 | 02  | Welcome Message Generator | ✅ Completed |
+| 03  | Simple Calculator | ✅ Completed |
+| 04  | Number Comparison | ✅ Completed |
 | ... | ... | ... |
 | 100 | Final Capstone Project | 🔒 Coming Soon |
 
