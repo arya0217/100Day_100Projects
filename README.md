@@ -10,7 +10,8 @@ I’ll log my daily progress here:
 
 | Day | Project | Status |
 |-----|----------|---------|
-| 01  | Hello World Notebook | ✅ Completed |
+| 01  | Mini Game | ✅ Completed |
+| 02  | Welcome Message Generator | ✅ Completed |
 | ... | ... | ... |
 | 100 | Final Capstone Project | 🔒 Coming Soon |
 
